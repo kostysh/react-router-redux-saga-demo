@@ -1,0 +1,25 @@
+@import '../../theme/variables.scss';
+
+.rates-grid-tb {
+
+    thead {
+        
+        td {
+            font-weight: bold;
+            border-bottom: 1px solid gray;
+
+            &:first-child {
+                border-right: 1px solid gray;
+            }
+        }
+    }
+
+    tbody {
+
+        td {
+            &:first-child {
+                border-right: 1px solid gray;
+            }
+        }
+    }
+}

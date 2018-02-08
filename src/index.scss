@@ -1,0 +1,12 @@
+@import './theme/variables.scss';
+
+body {
+  margin: 10px;
+  padding: 0;
+    font-family: $font-primary;
+}
+
+.hey-text {
+    font-size: $main-text-size;
+    font-family: $font-primary;
+}
