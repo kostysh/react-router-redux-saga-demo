@@ -21,6 +21,14 @@
     "sass-loader": "^6.0.6",
     "style-loader": "^0.20.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostysh/react-router-redux-saga-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kostysh/react-router-redux-saga-demo/issues"
+  },
+  "homepage": "https://github.com/kostysh/react-router-redux-saga-demo#readme",
   "devDependencies": {
     "node-sass-chokidar": "0.0.3",
     "react-app-rewired": "^1.4.1",
